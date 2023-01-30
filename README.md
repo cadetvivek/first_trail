@@ -1,1 +1,2 @@
-this is for only for assignment
+Introduction to JS (Variables & Data Types) 
+
